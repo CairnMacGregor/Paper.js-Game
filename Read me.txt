@@ -1,0 +1,3 @@
+Press any button on your keyboard to trigger sounds and lights
+
+Created following a tutorial by Colt Steele
